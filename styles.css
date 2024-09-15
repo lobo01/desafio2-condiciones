@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+/* parte 1: Imagen con borde */
+img {
+    width: 200px;
+}
+
+.borde-rojo {
+    border: 2px solid red;
+}
+
+/* parte 2: Stickers */
+section {
+    margin-bottom: 30px;
+}
+
+input[type="number"] {
+    width: 50px;
+}
+
+/* parte 3: Contraseña */
+select {
+    width: 60px;
+}
